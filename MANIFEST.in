@@ -1,0 +1,9 @@
+include README.md
+include LICENSE
+include pyproject.toml
+include setup.cfg
+include setup.py
+include src/my_package/__init__.py
+include src/my_package/cli.py
+include src/my_package/main.py
+include tests/test_main.py
